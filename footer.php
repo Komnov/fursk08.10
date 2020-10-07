@@ -66,7 +66,7 @@
         e.type = "text/javascript", e.async = !0, e.src = "https://mc.yandex.ru/metrika/watch.js", "[object Opera]" == b.opera ? a.addEventListener("DOMContentLoaded", f, !1) : f()
     }(document, window, "yandex_metrika_callbacks");</script>
 <noscript>
-    <div><img src="//mc.yandex.ru/watch/328591" style="position:absolute; left:-9999px;" alt=""/></div>
+    <div><img src="//mc.yandex.ru/watch/328591" style="position:absolute; left:-9998px;" alt=""/></div>
 </noscript>
 </body>
 </html>
